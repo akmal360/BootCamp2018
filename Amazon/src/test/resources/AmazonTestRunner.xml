@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Amazon Automation Test" parallel="true">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="cloudEnvName" value="browserstack"/>
+    <parameter name="os" value="Windows"/>
+    <parameter name="os_version" value="Windows"/>
+    <parameter name="browserName" value="Firefox"/>
+    <parameter name="browserVersion" value="58.0.1 "/>
+    <parameter name="url" value="http://www.amazon.com"/>
+
+
+    <test name="Amazon Home">
+        <classes>
+
+            <!--<class name="TestSearchMenu"/>-->
+            <!--<class name="TestDropDownMenu"/>-->
+            <!--<class name="TestSearch.TestSearchPage"/>-->
+            <!--<class name="TestGoogleSheet.TestGoogleSheetsPage"/>-->
+            <class name="TestMySql.TestMySqlCode"/>
+
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Amazon" />
+        <module name="Cigna" />
+        <module name="Citibank" />
+        <module name="Foxnews" />
+        <module name="Generic" />
+        <module name="RESTful" />
+        <module name="Twitter" />
+        <module name="W3schools" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Amazon" target="1.8" />
+      <module name="BootCamp2018" target="1.8" />
+      <module name="Cigna" target="1.8" />
+      <module name="Citibank" target="1.8" />
+      <module name="Foxnews" target="1.8" />
+      <module name="Generic" target="1.8" />
+      <module name="RESTful" target="1.8" />
+      <module name="Twitter" target="1.8" />
+      <module name="W3schools" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

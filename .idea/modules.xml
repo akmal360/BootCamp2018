@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootCamp2018.iml" filepath="$PROJECT_DIR$/BootCamp2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cigna/Cigna.iml" filepath="$PROJECT_DIR$/Cigna/Cigna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Citibank/Citibank.iml" filepath="$PROJECT_DIR$/Citibank/Citibank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Foxnews/Foxnews.iml" filepath="$PROJECT_DIR$/Foxnews/Foxnews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RESTful/RESTful.iml" filepath="$PROJECT_DIR$/RESTful/RESTful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Twitter/Twitter.iml" filepath="$PROJECT_DIR$/Twitter/Twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W3schools/W3schools.iml" filepath="$PROJECT_DIR$/W3schools/W3schools.iml" />
+    </modules>
+  </component>
+</project>

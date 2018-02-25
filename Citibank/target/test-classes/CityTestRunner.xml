@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Cigna automation Test" parallel="false">
+
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="cloudEnvName" value="browserstack"/>
+    <parameter name="os" value="Windows"/>
+    <parameter name="os_version" value="Windows"/>
+    <parameter name="browserName" value="Firefox"/>
+    <parameter name="browserVersion" value="59.0b4"/>
+    <parameter name="url" value="https://online.citi.com/US/login.do"/>
+
+
+    <test name = "Citi Bank Home">
+        <classes>
+
+            <class name="Home.TestCitiSearch"/>
+
+        </classes>
+    </test>
+
+</suite>
